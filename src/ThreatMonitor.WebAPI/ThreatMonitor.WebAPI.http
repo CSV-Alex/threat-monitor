@@ -1,0 +1,6 @@
+@ThreatMonitor.WebAPI_HostAddress = http://localhost:5271
+
+GET {{ThreatMonitor.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/ThreatMonitor.Application/ThreatMonitor.Application.csproj" />
+  <Project Path="src/ThreatMonitor.Domain/ThreatMonitor.Domain.csproj" />
+  <Project Path="src/ThreatMonitor.Infrastructure/ThreatMonitor.Infrastructure.csproj" />
+  <Project Path="src/ThreatMonitor.WebAPI/ThreatMonitor.WebAPI.csproj" />
+</Solution>

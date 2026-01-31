@@ -1,0 +1,23 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+
+# Angular
+dist/
+node_modules/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Database
+*.mdf
+*.ldf
